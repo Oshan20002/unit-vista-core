@@ -53,7 +53,7 @@ function Brand() {
         <Building2 className="size-4.5" />
       </span>
       <div className="leading-tight">
-        <p className="text-sm font-semibold text-sidebar-accent-foreground">Estora</p>
+        <p className="text-sm font-semibold text-sidebar-accent-foreground">EstoraSample System</p>
         <p className="text-[11px] text-sidebar-foreground/60">Property Asset Platform</p>
       </div>
     </div>
